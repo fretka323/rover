@@ -1,0 +1,1 @@
+Software roveru. Děleno na moduly (jednočipové počítače starající se o drobnější věci) a desku (výkonný počítač starající se o chod modulů a komunikaci). Komunikace Rover<->Server
