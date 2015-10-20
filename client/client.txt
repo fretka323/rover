@@ -1,0 +1,1 @@
+Řízení roveru pomocí příkazů z konzole. Komunikace Klient<->Server
